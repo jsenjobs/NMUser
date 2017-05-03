@@ -10,9 +10,9 @@ before_install:
   - echo -e "Host 120.25.217.56\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
   - npm prune --production
-  - tar -jcf dist.tar.bz2 *
-  - scp dist.tar.bz2 root@120.25.217.56:~/
-  - ssh root@120.25.217.56 'rm -rf ~/server/User/* && rm -rf dist'
-  - ssh root@120.25.217.56 'mkdir -p dist && tar -jxf dist.tar.bz2 -C dist'
-  - ssh root@120.25.217.56 'mv dist/* ~/server/User && npm start'
+  - tar -jcf cache.tar.bz2 *
+  - scp cache.tar.bz2 root@120.25.217.56:~/
+  - ssh root@120.25.217.56 'rm -rf ~/MicroServer/User'
+  - ssh root@120.25.217.56 'mkdir -p User && tar -jxf dist.tar.bz2 -C User'
+  - ssh root@120.25.217.56 'mv User ~/MicroServer/ && pm2 startOrReload ~/MicroServer/User/pm2.json'
 
