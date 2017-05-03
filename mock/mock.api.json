@@ -1,0 +1,56 @@
+{
+  "listNotebook":{
+    "_links":"http://www.jsendev.com:3002/note/list/notebook",
+    "des":"列出所有notebook",
+    "method":"GET",
+    "params":[
+    ]
+  },
+  "listAll":{
+    "_links":"http://www.jsendev.com:3002/note/listAll/:page/:capacity",
+    "des":"列出所有note，不按notebook分类",
+    "method":"GET",
+    "params":[
+    ]
+  },
+  "list":{
+    "_links":"http://www.jsendev.com:3002/note/list/:notebook/:page/:capacity",
+    "des":"列出所有note，按notebook分类",
+    "method":"GET",
+    "params":[
+    ]
+  },
+  "updateNote":{
+    "_links":"http://www.jsendev.com:3002/note/update",
+    "des":"更新一个note的metadata",
+    "method":"POST",
+    "params":[
+      {"name":"notebook", "type":"string","des":"所属的notebook"},
+      {"name":"title", "type":"string","des":"笔记名字"},
+      {"name":"describe", "type":"string","des":"描述"},
+      {"name":"url", "type":"string","des":"连接"},
+      {"name":"author", "type":"string","des":"作者"}
+    ]
+  },
+  "insertNote":{
+    "_links":"http://www.jsendev.com:3002/note/insert",
+    "des":"添加笔记",
+    "method":"POST",
+    "params":[
+      {"name":"notebook", "type":"string","des":"所属的notebook"},
+      {"name":"title", "type":"string","des":"笔记名字"},
+      {"name":"describe", "type":"string","des":"描述"},
+      {"name":"url", "type":"string","des":"连接"},
+      {"name":"author", "type":"string","des":"作者"}
+    ]
+  },
+  "deleteNote":{
+    "_links":"http://www.jsendev.com:3002/note/delete/:notebook/:title",
+    "des":"删除笔记",
+    "method":"GET",
+    "params":[
+      {"name":"notebook", "type":"string","des":"所属的notebook"},
+      {"name":"title", "type":"string","des":"笔记名字"}
+    ]
+  }
+}

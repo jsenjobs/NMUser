@@ -1,0 +1,1161 @@
+[2017-05-02 22:39:01.309] [INFO] console - Running app as a module
+[2017-05-02 22:39:01.397] [INFO] console - 
+[2017-05-02 22:39:01.398] [INFO] console - [0m[0m
+[2017-05-02 22:39:01.403] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:39:01.405] [ERROR] server - 无法获取mock/mock.api.json文件信息，请检查文件是否存在和文件格式
+[2017-05-02 22:39:01.424] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:39:01.425] [INFO] console - 
+[2017-05-02 22:39:01.427] [INFO] console - 
+[2017-05-02 22:40:31.912] [INFO] console - Running app as a module
+[2017-05-02 22:40:31.942] [INFO] console - 
+[2017-05-02 22:40:31.944] [INFO] console - [0m[0m
+[2017-05-02 22:40:31.948] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:40:31.949] [ERROR] server - 无法获取mock/mock.api.json文件信息，请检查文件是否存在和文件格式
+[2017-05-02 22:40:31.972] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:40:31.973] [INFO] console - 
+[2017-05-02 22:40:31.975] [INFO] console - 
+[2017-05-02 22:41:12.532] [INFO] console - Running app as a module
+[2017-05-02 22:41:12.561] [INFO] console - 
+[2017-05-02 22:41:12.562] [INFO] console - [0m[0m
+[2017-05-02 22:41:12.567] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:41:12.569] [ERROR] server - 无法获取mock/mock.api.json文件信息，请检查文件是否存在和文件格式
+[2017-05-02 22:41:12.590] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:41:12.592] [INFO] console - 
+[2017-05-02 22:41:12.593] [INFO] console - 
+[2017-05-02 22:41:28.516] [INFO] console - Running app as a module
+[2017-05-02 22:41:28.552] [INFO] console - 
+[2017-05-02 22:41:28.553] [INFO] console - [0m[0m
+[2017-05-02 22:41:28.556] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:41:28.577] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:41:28.580] [INFO] console - 
+[2017-05-02 22:41:28.581] [INFO] console - 
+[2017-05-02 22:42:11.195] [INFO] console - Running app as a module
+[2017-05-02 22:42:11.230] [INFO] console - 
+[2017-05-02 22:42:11.231] [INFO] console - [0m[0m
+[2017-05-02 22:42:11.234] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:42:11.258] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:42:11.260] [INFO] console - 
+[2017-05-02 22:42:11.262] [INFO] console - 
+[2017-05-02 22:42:39.242] [INFO] console - Running app as a module
+[2017-05-02 22:42:39.274] [INFO] console - 
+[2017-05-02 22:42:39.274] [INFO] console - [0m[0m
+[2017-05-02 22:42:39.278] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:42:39.301] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:42:39.302] [INFO] console - 
+[2017-05-02 22:42:39.304] [INFO] console - 
+[2017-05-02 22:43:11.106] [INFO] console - Running app as a module
+[2017-05-02 22:43:11.135] [INFO] console - 3000
+[2017-05-02 22:43:11.141] [INFO] console - 
+[2017-05-02 22:43:11.141] [INFO] console - [0m[0m
+[2017-05-02 22:43:11.146] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:43:11.172] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:43:11.174] [INFO] console - 
+[2017-05-02 22:43:11.176] [INFO] console - 
+[2017-05-02 22:44:52.919] [INFO] console - Running app as a module
+[2017-05-02 22:44:52.962] [INFO] console - 3000
+[2017-05-02 22:44:52.971] [INFO] console - 
+[2017-05-02 22:44:52.972] [INFO] console - [0m[0m
+[2017-05-02 22:44:52.979] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:48:42.499] [INFO] console - Running app as a module
+[2017-05-02 22:48:42.533] [INFO] console - 3000
+[2017-05-02 22:48:42.540] [INFO] console - 
+[2017-05-02 22:48:42.541] [INFO] console - [0m[0m
+[2017-05-02 22:48:42.547] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:48:42.575] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:49:18.260] [INFO] console - Running app as a module
+[2017-05-02 22:49:18.287] [INFO] console - 3000
+[2017-05-02 22:49:18.294] [INFO] console - 
+[2017-05-02 22:49:18.295] [INFO] console - [0m[0m
+[2017-05-02 22:49:18.299] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:49:18.323] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:49:18.324] [INFO] console - 
+[2017-05-02 22:49:18.326] [INFO] console - 
+[2017-05-02 22:50:41.015] [INFO] console - Running app as a module
+[2017-05-02 22:50:41.043] [INFO] console - 3000
+[2017-05-02 22:50:41.048] [INFO] console - 
+[2017-05-02 22:50:41.049] [INFO] console - [0m[0m
+[2017-05-02 22:50:41.053] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:50:41.076] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:50:41.078] [INFO] console - 
+[2017-05-02 22:50:49.736] [INFO] console - Running app as a module
+[2017-05-02 22:50:49.762] [INFO] console - 3000
+[2017-05-02 22:50:49.768] [INFO] console - 
+[2017-05-02 22:50:49.769] [INFO] console - [0m[0m
+[2017-05-02 22:50:49.772] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:50:49.797] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:50:49.799] [INFO] console - 
+[2017-05-02 22:50:49.801] [INFO] console - 
+[2017-05-02 22:51:05.086] [INFO] console - Running app as a module
+[2017-05-02 22:51:05.115] [INFO] console - 3000
+[2017-05-02 22:51:05.120] [INFO] console - 
+[2017-05-02 22:51:05.121] [INFO] console - [0m[0m
+[2017-05-02 22:51:05.126] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:51:05.146] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:80
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 80,
+  response: undefined }
+[2017-05-02 22:51:05.157] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:51:05.159] [INFO] console - 
+[2017-05-02 22:51:05.161] [INFO] console - 
+[2017-05-02 22:51:38.542] [INFO] console - Running app as a module
+[2017-05-02 22:51:38.569] [INFO] console - 3000
+[2017-05-02 22:51:38.578] [INFO] console - 
+[2017-05-02 22:51:38.580] [INFO] console - [0m[0m
+[2017-05-02 22:51:38.586] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:51:38.606] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:51:38.619] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:51:38.621] [INFO] console - 
+[2017-05-02 22:51:38.625] [INFO] console - 
+[2017-05-02 22:51:58.830] [INFO] console - Running app as a module
+[2017-05-02 22:51:58.873] [INFO] console - 3000
+[2017-05-02 22:51:58.882] [INFO] console - 
+[2017-05-02 22:51:58.883] [INFO] console - [0m[0m
+[2017-05-02 22:51:58.888] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:51:58.914] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:51:58.930] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:51:58.933] [INFO] RedisIniter - connect
+[2017-05-02 22:51:58.935] [INFO] console - 
+[2017-05-02 22:52:12.962] [INFO] console - Running app as a module
+[2017-05-02 22:52:13.001] [INFO] console - 3000
+[2017-05-02 22:52:13.012] [INFO] console - 
+[2017-05-02 22:52:13.013] [INFO] console - [0m[0m
+[2017-05-02 22:52:13.019] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:52:13.045] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:52:13.064] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m[33m (38ms)[0m
+[2017-05-02 22:52:13.066] [INFO] RedisIniter - connect
+[2017-05-02 22:52:35.563] [INFO] console - Running app as a module
+[2017-05-02 22:52:35.596] [INFO] console - 3000
+[2017-05-02 22:52:35.603] [INFO] console - 
+[2017-05-02 22:52:35.603] [INFO] console - [0m[0m
+[2017-05-02 22:52:35.607] [INFO] console - [0m  user/logout[0m
+[2017-05-02 22:52:35.622] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:52:35.633] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:52:35.635] [INFO] console - 
+[2017-05-02 22:52:35.637] [INFO] console - 
+[2017-05-02 22:53:10.399] [INFO] console - Running app as a module
+[2017-05-02 22:53:10.431] [INFO] console - 3000
+[2017-05-02 22:53:10.437] [INFO] console - 
+[2017-05-02 22:53:10.438] [INFO] console - [0m[0m
+[2017-05-02 22:53:10.441] [INFO] console - [0m  user/logout[0m
+[2017-05-02 22:53:10.458] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:53:10.468] [INFO] console -   [32m  ✓[0m[90m shou[0m
+[2017-05-02 22:53:10.470] [INFO] console - 
+[2017-05-02 22:53:10.472] [INFO] console - 
+[2017-05-02 22:54:46.722] [INFO] console - Running app as a module
+[2017-05-02 22:54:46.758] [INFO] console - 3000
+[2017-05-02 22:54:46.766] [INFO] console - 
+[2017-05-02 22:54:46.767] [INFO] console - [0m[0m
+[2017-05-02 22:54:46.771] [INFO] console - [0m  user/logout[0m
+[2017-05-02 22:54:46.789] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:54:46.799] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:54:46.802] [INFO] console - 
+[2017-05-02 22:54:46.803] [INFO] console - 
+[2017-05-02 22:55:06.312] [INFO] console - Running app as a module
+[2017-05-02 22:55:06.338] [INFO] console - 3000
+[2017-05-02 22:55:06.343] [INFO] console - 
+[2017-05-02 22:55:06.344] [INFO] console - [0m[0m
+[2017-05-02 22:55:06.347] [INFO] console - [0m  user/logout[0m
+[2017-05-02 22:55:06.367] [ERROR] console - { Error: connect ECONNREFUSED 127.0.0.1:3000
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3000,
+  response: undefined }
+[2017-05-02 22:55:06.376] [INFO] console -   [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 22:55:06.378] [INFO] console - 
+[2017-05-02 22:58:52.073] [INFO] console - Running app as a module
+[2017-05-02 22:58:52.106] [INFO] console - 3000
+[2017-05-02 22:58:52.113] [INFO] console - 
+[2017-05-02 22:58:52.113] [INFO] console - [0m[0m
+[2017-05-02 22:58:52.118] [INFO] console - [0m  /user/logout[0m
+[2017-05-02 22:58:52.139] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:58:52.141] [INFO] console - 
+[2017-05-02 22:58:52.143] [INFO] console - 
+[2017-05-02 22:59:34.067] [INFO] console - Running app as a module
+[2017-05-02 22:59:34.095] [INFO] console - 3000
+[2017-05-02 22:59:34.100] [INFO] console - 
+[2017-05-02 22:59:34.101] [INFO] console - [0m[0m
+[2017-05-02 22:59:34.104] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:59:34.120] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:59:34.122] [INFO] console - 
+[2017-05-02 22:59:34.124] [INFO] console - 
+[2017-05-02 22:59:48.120] [INFO] console - Running app as a module
+[2017-05-02 22:59:48.159] [INFO] console - 
+[2017-05-02 22:59:48.160] [INFO] console - [0m[0m
+[2017-05-02 22:59:48.165] [INFO] console - [0m  homepage[0m
+[2017-05-02 22:59:48.183] [INFO] console -   [31m  1) should respond to GET[0m
+[2017-05-02 22:59:48.184] [INFO] console - 
+[2017-05-02 22:59:48.186] [INFO] console - 
+[2017-05-02 23:00:39.592] [INFO] console - Running app as a module
+[2017-05-02 23:00:39.628] [INFO] console - 
+[2017-05-02 23:00:39.630] [INFO] console - [0m[0m
+[2017-05-02 23:00:39.635] [INFO] console - [0m  server[0m
+[2017-05-02 23:00:39.643] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:00:39.643] [INFO] server - 服务器端口：3000
+[2017-05-02 23:00:39.667] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:00:39.669] [INFO] RedisIniter - connect
+[2017-05-02 23:00:39.754] [INFO] RedisIniter - Ready
+[2017-05-02 23:00:39.755] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:00:40.419] [INFO] console - 
+[2017-05-02 23:00:41.653] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:00:41.655] [INFO] console - 
+[2017-05-02 23:00:41.656] [INFO] console - 
+[2017-05-02 23:01:12.643] [INFO] console - Running app as a module
+[2017-05-02 23:01:12.677] [INFO] console - 
+[2017-05-02 23:01:12.678] [INFO] console - [0m[0m
+[2017-05-02 23:01:12.682] [INFO] console - [0m  server[0m
+[2017-05-02 23:01:12.688] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:01:12.689] [INFO] server - 服务器端口：3000
+[2017-05-02 23:01:12.713] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:01:12.762] [INFO] RedisIniter - connect
+[2017-05-02 23:01:13.430] [INFO] RedisIniter - Ready
+[2017-05-02 23:01:13.431] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:01:13.482] [ERROR] console - null
+[2017-05-02 23:01:13.489] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[31m (797ms)[0m
+[2017-05-02 23:01:13.492] [INFO] console - 
+[2017-05-02 23:01:13.492] [INFO] console - 
+[2017-05-02 23:01:44.111] [INFO] console - Running app as a module
+[2017-05-02 23:01:44.144] [INFO] console - 
+[2017-05-02 23:01:44.144] [INFO] console - [0m[0m
+[2017-05-02 23:01:44.148] [INFO] console - [0m  server[0m
+[2017-05-02 23:01:44.155] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:01:44.155] [INFO] server - 服务器端口：3000
+[2017-05-02 23:01:44.180] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:01:44.241] [INFO] RedisIniter - connect
+[2017-05-02 23:01:44.768] [INFO] console - 
+[2017-05-02 23:01:44.845] [INFO] RedisIniter - Ready
+[2017-05-02 23:01:44.845] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:01:44.930] [ERROR] console - null
+[2017-05-02 23:01:44.933] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:01:44.935] [INFO] console - 
+[2017-05-02 23:01:44.936] [INFO] console - 
+[2017-05-02 23:02:04.113] [INFO] console - Running app as a module
+[2017-05-02 23:02:04.153] [INFO] console - 
+[2017-05-02 23:02:04.155] [INFO] console - [0m[0m
+[2017-05-02 23:02:04.161] [INFO] console - [0m  server[0m
+[2017-05-02 23:02:04.171] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:02:04.171] [INFO] server - 服务器端口：3000
+[2017-05-02 23:02:04.191] [INFO] RedisIniter - connect
+[2017-05-02 23:02:04.225] [ERROR] console - { Error: Not Found
+    at Request.callback (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:675:11)
+    at /Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:188:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  status: 404,
+  response: 
+   Response {
+     domain: null,
+     _events: {},
+     _eventsCount: 0,
+     _maxListeners: undefined,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 4,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Object],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 404,
+        statusMessage: 'Not Found',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Object],
+        text: '{"code":404,"msg":"没有此Api","_links":{"listNotebook":{"_links":"http://www.jsendev.com:3002/note/list/notebook","des":"列出所有notebook","method":"GET","params":[]},"listAll":{"_links":"http://www.jsendev.com:3002/note/listAll/:page/:capacity","des":"列出所有note，不按notebook分类","method":"GET","params":[]},"list":{"_links":"http://www.jsendev.com:3002/note/list/:notebook/:page/:capacity","des":"列出所有note，按notebook分类","method":"GET","params":[]},"updateNote":{"_links":"http://www.jsendev.com:3002/note/update","des":"更新一个note的metadata","method":"POST","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"},{"name":"describe","type":"string","des":"描述"},{"name":"url","type":"string","des":"连接"},{"name":"author","type":"string","des":"作者"}]},"insertNote":{"_links":"http://www.jsendev.com:3002/note/insert","des":"添加笔记","method":"POST","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"},{"name":"describe","type":"string","des":"描述"},{"name":"url","type":"string","des":"连接"},{"name":"author","type":"string","des":"作者"}]},"deleteNote":{"_links":"http://www.jsendev.com:3002/note/delete/:notebook/:title","des":"删除笔记","method":"GET","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"}]}}}',
+        read: [Function] },
+     request: 
+      Request {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        _agent: false,
+        _formData: null,
+        method: 'GET',
+        url: 'http://localhost:3000',
+        _header: [Object],
+        header: [Object],
+        writable: true,
+        _redirects: 0,
+        _maxRedirects: 5,
+        cookies: '',
+        qs: {},
+        qsRaw: [],
+        _redirectList: [],
+        _streamRequest: false,
+        req: [Object],
+        protocol: 'http:',
+        host: 'localhost:3000',
+        _endCalled: true,
+        _callback: [Function],
+        res: [Object],
+        response: [Circular],
+        called: true },
+     req: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: false,
+        sendDate: false,
+        _removedHeader: {},
+        _contentLength: 0,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'GET / HTTP/1.1\r\nHost: localhost:3000\r\nAccept-Encoding: gzip, deflate\r\nUser-Agent: node-superagent/3.5.2\r\nConnection: close\r\n\r\n',
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: null,
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'GET',
+        path: '/',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null },
+     text: '{"code":404,"msg":"没有此Api","_links":{"listNotebook":{"_links":"http://www.jsendev.com:3002/note/list/notebook","des":"列出所有notebook","method":"GET","params":[]},"listAll":{"_links":"http://www.jsendev.com:3002/note/listAll/:page/:capacity","des":"列出所有note，不按notebook分类","method":"GET","params":[]},"list":{"_links":"http://www.jsendev.com:3002/note/list/:notebook/:page/:capacity","des":"列出所有note，按notebook分类","method":"GET","params":[]},"updateNote":{"_links":"http://www.jsendev.com:3002/note/update","des":"更新一个note的metadata","method":"POST","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"},{"name":"describe","type":"string","des":"描述"},{"name":"url","type":"string","des":"连接"},{"name":"author","type":"string","des":"作者"}]},"insertNote":{"_links":"http://www.jsendev.com:3002/note/insert","des":"添加笔记","method":"POST","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"},{"name":"describe","type":"string","des":"描述"},{"name":"url","type":"string","des":"连接"},{"name":"author","type":"string","des":"作者"}]},"deleteNote":{"_links":"http://www.jsendev.com:3002/note/delete/:notebook/:title","des":"删除笔记","method":"GET","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"}]}}}',
+     body: { code: 404, msg: '没有此Api', _links: [Object] },
+     files: undefined,
+     buffered: true,
+     headers: 
+      { 'x-powered-by': 'Express',
+        'access-control-allow-origin': '*',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '1499',
+        etag: 'W/"5db-pLjYrwcDJGABkts58cOnLQvgI+s"',
+        date: 'Tue, 02 May 2017 15:02:04 GMT',
+        connection: 'close' },
+     header: 
+      { 'x-powered-by': 'Express',
+        'access-control-allow-origin': '*',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '1499',
+        etag: 'W/"5db-pLjYrwcDJGABkts58cOnLQvgI+s"',
+        date: 'Tue, 02 May 2017 15:02:04 GMT',
+        connection: 'close' },
+     statusCode: 404,
+     status: 404,
+     statusType: 4,
+     info: false,
+     ok: false,
+     redirect: false,
+     clientError: true,
+     serverError: false,
+     error: 
+      { Error: cannot GET / (404)
+          at Response.toError (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/response.js:94:13)
+          at ResponseBase._setStatusProperties (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/response-base.js:122:16)
+          at new Response (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/response.js:40:8)
+          at Request._emitResponse (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:738:20)
+          at /Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:883:38
+          at IncomingMessage.<anonymous> (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/parsers/json.js:16:7)
+          at emitNone (events.js:91:20)
+          at IncomingMessage.emit (events.js:188:7)
+          at endReadableNT (_stream_readable.js:975:12)
+          at _combinedTickCallback (internal/process/next_tick.js:80:11)
+          at process._tickCallback (internal/process/next_tick.js:104:9)
+        status: 404,
+        text: '{"code":404,"msg":"没有此Api","_links":{"listNotebook":{"_links":"http://www.jsendev.com:3002/note/list/notebook","des":"列出所有notebook","method":"GET","params":[]},"listAll":{"_links":"http://www.jsendev.com:3002/note/listAll/:page/:capacity","des":"列出所有note，不按notebook分类","method":"GET","params":[]},"list":{"_links":"http://www.jsendev.com:3002/note/list/:notebook/:page/:capacity","des":"列出所有note，按notebook分类","method":"GET","params":[]},"updateNote":{"_links":"http://www.jsendev.com:3002/note/update","des":"更新一个note的metadata","method":"POST","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"},{"name":"describe","type":"string","des":"描述"},{"name":"url","type":"string","des":"连接"},{"name":"author","type":"string","des":"作者"}]},"insertNote":{"_links":"http://www.jsendev.com:3002/note/insert","des":"添加笔记","method":"POST","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"},{"name":"describe","type":"string","des":"描述"},{"name":"url","type":"string","des":"连接"},{"name":"author","type":"string","des":"作者"}]},"deleteNote":{"_links":"http://www.jsendev.com:3002/note/delete/:notebook/:title","des":"删除笔记","method":"GET","params":[{"name":"notebook","type":"string","des":"所属的notebook"},{"name":"title","type":"string","des":"笔记名字"}]}}}',
+        method: 'GET',
+        path: '/' },
+     accepted: false,
+     noContent: false,
+     badRequest: false,
+     unauthorized: false,
+     notAcceptable: false,
+     forbidden: false,
+     notFound: true,
+     type: 'application/json',
+     charset: 'utf-8',
+     links: {},
+     setEncoding: [Function: bound ],
+     redirects: [] } }
+[2017-05-02 23:02:04.251] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (75ms)[0m
+[2017-05-02 23:02:04.253] [INFO] console - 
+[2017-05-02 23:02:04.254] [INFO] console - 
+[2017-05-02 23:02:20.611] [INFO] console - Running app as a module
+[2017-05-02 23:02:20.649] [INFO] console - 
+[2017-05-02 23:02:20.650] [INFO] console - [0m[0m
+[2017-05-02 23:02:20.656] [INFO] console - [0m  server[0m
+[2017-05-02 23:02:20.665] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:02:20.666] [INFO] server - 服务器端口：3000
+[2017-05-02 23:02:20.711] [ERROR] console - 404
+[2017-05-02 23:02:20.720] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (47ms)[0m
+[2017-05-02 23:02:20.722] [INFO] console - 
+[2017-05-02 23:02:20.723] [INFO] console - 
+[2017-05-02 23:02:36.081] [INFO] console - Running app as a module
+[2017-05-02 23:02:36.111] [INFO] console - 
+[2017-05-02 23:02:36.112] [INFO] console - [0m[0m
+[2017-05-02 23:02:36.115] [INFO] console - [0m  server[0m
+[2017-05-02 23:02:36.121] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:02:36.121] [INFO] server - 服务器端口：3000
+[2017-05-02 23:02:36.156] [ERROR] console - 404
+[2017-05-02 23:02:36.160] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:02:36.162] [INFO] console - 
+[2017-05-02 23:02:36.163] [INFO] console - 
+[2017-05-02 23:03:20.865] [INFO] console - Running app as a module
+[2017-05-02 23:03:20.893] [INFO] console - 
+[2017-05-02 23:03:20.894] [INFO] console - [0m[0m
+[2017-05-02 23:03:20.898] [INFO] console - [0m  server[0m
+[2017-05-02 23:03:20.903] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:03:20.904] [INFO] server - 服务器端口：3000
+[2017-05-02 23:03:20.938] [ERROR] console - 404
+[2017-05-02 23:03:20.942] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:03:20.948] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:03:20.972] [INFO] RedisIniter - connect
+[2017-05-02 23:03:21.052] [INFO] RedisIniter - Ready
+[2017-05-02 23:03:21.053] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:03:21.998] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:03:22.000] [INFO] console - 
+[2017-05-02 23:03:22.001] [INFO] console - 
+[2017-05-02 23:03:33.105] [INFO] console - Running app as a module
+[2017-05-02 23:03:33.140] [INFO] console - 
+[2017-05-02 23:03:33.141] [INFO] console - [0m[0m
+[2017-05-02 23:03:33.146] [INFO] console - [0m  server[0m
+[2017-05-02 23:03:33.152] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:03:33.152] [INFO] server - 服务器端口：3000
+[2017-05-02 23:03:33.186] [INFO] RedisIniter - connect
+[2017-05-02 23:03:33.193] [ERROR] console - 404
+[2017-05-02 23:03:33.197] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (41ms)[0m
+[2017-05-02 23:03:33.206] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:03:33.269] [INFO] RedisIniter - Ready
+[2017-05-02 23:03:33.270] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:03:33.309] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:03:33.310] [INFO] console - 
+[2017-05-02 23:03:33.311] [INFO] console - 
+[2017-05-02 23:03:45.850] [INFO] console - Running app as a module
+[2017-05-02 23:03:45.883] [INFO] console - 
+[2017-05-02 23:03:45.884] [INFO] console - [0m[0m
+[2017-05-02 23:03:45.888] [INFO] console - [0m  server[0m
+[2017-05-02 23:03:45.894] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:03:45.894] [INFO] server - 服务器端口：3000
+[2017-05-02 23:03:45.933] [ERROR] console - 404
+[2017-05-02 23:03:45.938] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:03:45.943] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:03:46.967] [INFO] RedisIniter - connect
+[2017-05-02 23:03:47.007] [INFO] RedisIniter - Ready
+[2017-05-02 23:03:47.008] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:03:47.039] [INFO] console - 
+[2017-05-02 23:03:47.051] [ERROR] console - null
+[2017-05-02 23:03:47.053] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[31m (1114ms)[0m
+[2017-05-02 23:03:47.056] [INFO] console - 
+[2017-05-02 23:03:47.056] [INFO] console - 
+[2017-05-02 23:04:46.962] [INFO] console - Running app as a module
+[2017-05-02 23:04:46.998] [INFO] console - 
+[2017-05-02 23:04:46.999] [INFO] console - [0m[0m
+[2017-05-02 23:04:47.006] [INFO] console - [0m  server[0m
+[2017-05-02 23:04:47.014] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:04:47.015] [INFO] server - 服务器端口：3000
+[2017-05-02 23:04:47.054] [ERROR] console - 404
+[2017-05-02 23:04:47.059] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:04:47.063] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:04:48.480] [INFO] RedisIniter - connect
+[2017-05-02 23:04:48.524] [INFO] RedisIniter - Ready
+[2017-05-02 23:04:48.525] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:04:48.893] [ERROR] console - null
+[2017-05-02 23:04:48.896] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[31m (1836ms)[0m
+[2017-05-02 23:04:48.898] [INFO] console - 
+[2017-05-02 23:04:48.898] [INFO] console - 
+[2017-05-02 23:06:07.325] [INFO] console - Running app as a module
+[2017-05-02 23:06:07.356] [INFO] console - 
+[2017-05-02 23:06:07.357] [INFO] console - [0m[0m
+[2017-05-02 23:06:07.360] [INFO] console - [0m  server[0m
+[2017-05-02 23:06:07.367] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:06:07.367] [INFO] server - 服务器端口：3000
+[2017-05-02 23:06:07.400] [INFO] RedisIniter - connect
+[2017-05-02 23:06:07.414] [ERROR] console - 404
+[2017-05-02 23:06:07.418] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (46ms)[0m
+[2017-05-02 23:06:07.427] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:06:07.430] [ERROR] console - null
+[2017-05-02 23:06:07.431] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:06:07.433] [INFO] console - 
+[2017-05-02 23:06:07.433] [INFO] console - 
+[2017-05-02 23:06:41.265] [INFO] console - Running app as a module
+[2017-05-02 23:06:41.300] [INFO] console - 
+[2017-05-02 23:06:41.301] [INFO] console - [0m[0m
+[2017-05-02 23:06:41.305] [INFO] console - [0m  server[0m
+[2017-05-02 23:06:41.311] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:06:41.311] [INFO] server - 服务器端口：3000
+[2017-05-02 23:06:41.350] [ERROR] console - 404
+[2017-05-02 23:06:41.355] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (39ms)[0m
+[2017-05-02 23:06:41.357] [INFO] RedisIniter - connect
+[2017-05-02 23:06:41.366] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:06:41.369] [INFO] console - null
+[2017-05-02 23:06:41.371] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:06:41.372] [INFO] console - 
+[2017-05-02 23:06:41.373] [INFO] console - 
+[2017-05-02 23:07:35.325] [INFO] console - Running app as a module
+[2017-05-02 23:07:35.355] [INFO] console - 
+[2017-05-02 23:07:35.356] [INFO] console - [0m[0m
+[2017-05-02 23:07:35.360] [INFO] console - [0m  server[0m
+[2017-05-02 23:07:35.366] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:07:35.367] [INFO] server - 服务器端口：3000
+[2017-05-02 23:07:35.401] [ERROR] console - 404
+[2017-05-02 23:07:35.406] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:07:35.413] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:07:36.469] [INFO] RedisIniter - connect
+[2017-05-02 23:07:36.504] [INFO] RedisIniter - Ready
+[2017-05-02 23:07:36.504] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:07:36.585] [INFO] console - null
+[2017-05-02 23:07:36.587] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[31m (1179ms)[0m
+[2017-05-02 23:07:36.589] [INFO] console - 
+[2017-05-02 23:07:36.589] [INFO] console - 
+[2017-05-02 23:07:57.003] [INFO] console - Running app as a module
+[2017-05-02 23:07:57.033] [INFO] console - 
+[2017-05-02 23:07:57.035] [INFO] console - [0m[0m
+[2017-05-02 23:07:57.038] [INFO] console - [0m  server[0m
+[2017-05-02 23:07:57.044] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:07:57.045] [INFO] server - 服务器端口：3000
+[2017-05-02 23:07:57.079] [ERROR] console - 404
+[2017-05-02 23:07:57.084] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:07:57.090] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:07:57.121] [INFO] RedisIniter - connect
+[2017-05-02 23:07:57.388] [INFO] console - 
+[2017-05-02 23:07:58.331] [INFO] RedisIniter - Ready
+[2017-05-02 23:07:58.332] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:07:58.784] [INFO] console - null
+[2017-05-02 23:07:58.786] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[31m (1701ms)[0m
+[2017-05-02 23:07:58.788] [INFO] console - 
+[2017-05-02 23:07:58.789] [INFO] console - 
+[2017-05-02 23:09:42.827] [INFO] console - Running app as a module
+[2017-05-02 23:09:42.859] [INFO] console - 
+[2017-05-02 23:09:42.861] [INFO] console - [0m[0m
+[2017-05-02 23:09:42.866] [INFO] console - [0m  server[0m
+[2017-05-02 23:09:42.873] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:09:42.873] [INFO] server - 服务器端口：3000
+[2017-05-02 23:09:42.908] [ERROR] console - 404
+[2017-05-02 23:09:42.913] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:09:42.918] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:09:42.920] [INFO] console - { Error: Not Found
+    at Request.callback (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:675:11)
+    at /Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:188:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  status: 404,
+  response: 
+   Response {
+     domain: null,
+     _events: {},
+     _eventsCount: 0,
+     _maxListeners: undefined,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 4,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Object],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 404,
+        statusMessage: 'Not Found',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Object],
+        text: '{"code":404,"msg":"无需退出"}',
+        read: [Function] },
+     request: 
+      Request {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        _agent: false,
+        _formData: null,
+        method: 'GET',
+        url: 'http://localhost:3000/user/logout',
+        _header: [Object],
+        header: [Object],
+        writable: true,
+        _redirects: 0,
+        _maxRedirects: 5,
+        cookies: '',
+        qs: {},
+        qsRaw: [],
+        _redirectList: [],
+        _streamRequest: false,
+        req: [Object],
+        protocol: 'http:',
+        host: 'localhost:3000',
+        _endCalled: true,
+        _callback: [Function],
+        res: [Object],
+        response: [Circular],
+        called: true },
+     req: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: false,
+        sendDate: false,
+        _removedHeader: {},
+        _contentLength: 0,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'GET /user/logout HTTP/1.1\r\nHost: localhost:3000\r\nAccept-Encoding: gzip, deflate\r\nUser-Agent: node-superagent/3.5.2\r\nConnection: close\r\n\r\n',
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: null,
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'GET',
+        path: '/user/logout',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null },
+     text: '{"code":404,"msg":"无需退出"}',
+     body: { code: 404, msg: '无需退出' },
+     files: undefined,
+     buffered: true,
+     headers: 
+      { 'x-powered-by': 'Express',
+        'access-control-allow-origin': '*',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '33',
+        etag: 'W/"21-cd94/b09d1yNFnqGUrlGAJRef8o"',
+        date: 'Tue, 02 May 2017 15:09:42 GMT',
+        connection: 'close' },
+     header: 
+      { 'x-powered-by': 'Express',
+        'access-control-allow-origin': '*',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '33',
+        etag: 'W/"21-cd94/b09d1yNFnqGUrlGAJRef8o"',
+        date: 'Tue, 02 May 2017 15:09:42 GMT',
+        connection: 'close' },
+     statusCode: 404,
+     status: 404,
+     statusType: 4,
+     info: false,
+     ok: false,
+     redirect: false,
+     clientError: true,
+     serverError: false,
+     error: 
+      { Error: cannot GET /user/logout (404)
+          at Response.toError (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/response.js:94:13)
+          at ResponseBase._setStatusProperties (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/response-base.js:122:16)
+          at new Response (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/response.js:40:8)
+          at Request._emitResponse (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:738:20)
+          at /Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:883:38
+          at IncomingMessage.<anonymous> (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/parsers/json.js:16:7)
+          at emitNone (events.js:91:20)
+          at IncomingMessage.emit (events.js:188:7)
+          at endReadableNT (_stream_readable.js:975:12)
+          at _combinedTickCallback (internal/process/next_tick.js:80:11)
+          at process._tickCallback (internal/process/next_tick.js:104:9)
+        status: 404,
+        text: '{"code":404,"msg":"无需退出"}',
+        method: 'GET',
+        path: '/user/logout' },
+     accepted: false,
+     noContent: false,
+     badRequest: false,
+     unauthorized: false,
+     notAcceptable: false,
+     forbidden: false,
+     notFound: true,
+     type: 'application/json',
+     charset: 'utf-8',
+     links: {},
+     setEncoding: [Function: bound ],
+     redirects: [] } }
+[2017-05-02 23:09:42.944] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:09:42.945] [INFO] RedisIniter - connect
+[2017-05-02 23:09:42.947] [INFO] console - 
+[2017-05-02 23:09:42.948] [INFO] console - 
+[2017-05-02 23:10:01.224] [INFO] console - Running app as a module
+[2017-05-02 23:10:01.255] [INFO] console - 
+[2017-05-02 23:10:01.256] [INFO] console - [0m[0m
+[2017-05-02 23:10:01.259] [INFO] console - [0m  server[0m
+[2017-05-02 23:10:01.265] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:10:01.266] [INFO] server - 服务器端口：3000
+[2017-05-02 23:10:01.297] [INFO] RedisIniter - connect
+[2017-05-02 23:10:01.304] [ERROR] console - 404
+[2017-05-02 23:10:01.309] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (39ms)[0m
+[2017-05-02 23:10:01.315] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:10:01.320] [INFO] console - 404
+[2017-05-02 23:10:01.322] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:10:01.323] [INFO] console - 
+[2017-05-02 23:10:01.324] [INFO] console - 
+[2017-05-02 23:10:18.930] [INFO] console - Running app as a module
+[2017-05-02 23:10:18.960] [INFO] console - 
+[2017-05-02 23:10:18.961] [INFO] console - [0m[0m
+[2017-05-02 23:10:18.965] [INFO] console - [0m  server[0m
+[2017-05-02 23:10:18.971] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:10:18.971] [INFO] server - 服务器端口：3000
+[2017-05-02 23:10:19.004] [INFO] RedisIniter - connect
+[2017-05-02 23:10:19.010] [ERROR] console - 404
+[2017-05-02 23:10:19.015] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (38ms)[0m
+[2017-05-02 23:10:19.020] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:10:19.024] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:10:19.026] [INFO] console - 
+[2017-05-02 23:10:19.026] [INFO] console - 
+[2017-05-02 23:11:02.515] [INFO] console - Running app as a module
+[2017-05-02 23:11:02.545] [INFO] console - 
+[2017-05-02 23:11:02.546] [INFO] console - [0m[0m
+[2017-05-02 23:11:02.549] [INFO] console - [0m  server[0m
+[2017-05-02 23:11:02.555] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:11:02.555] [INFO] server - 服务器端口：3000
+[2017-05-02 23:11:02.593] [ERROR] console - 404
+[2017-05-02 23:11:02.598] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:11:02.607] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:11:02.610] [INFO] console - 404
+[2017-05-02 23:11:02.611] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:11:02.612] [INFO] console - 
+[2017-05-02 23:11:02.613] [INFO] console - 
+[2017-05-02 23:11:11.896] [INFO] console - Running app as a module
+[2017-05-02 23:11:11.945] [INFO] console - 
+[2017-05-02 23:11:11.946] [INFO] console - [0m[0m
+[2017-05-02 23:11:11.951] [INFO] console - [0m  server[0m
+[2017-05-02 23:11:11.959] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:11:11.960] [INFO] server - 服务器端口：3000
+[2017-05-02 23:11:11.999] [ERROR] console - 404
+[2017-05-02 23:11:12.008] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (43ms)[0m
+[2017-05-02 23:11:12.015] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:11:12.020] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:11:12.022] [INFO] console - 
+[2017-05-02 23:11:12.022] [INFO] console - 
+[2017-05-02 23:11:17.661] [INFO] console - Running app as a module
+[2017-05-02 23:11:17.692] [INFO] console - 
+[2017-05-02 23:11:17.692] [INFO] console - [0m[0m
+[2017-05-02 23:11:17.696] [INFO] console - [0m  server[0m
+[2017-05-02 23:11:17.703] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:11:17.703] [INFO] server - 服务器端口：3000
+[2017-05-02 23:11:17.737] [ERROR] console - 404
+[2017-05-02 23:11:17.741] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:11:17.756] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:11:17.760] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:11:17.762] [INFO] console - 
+[2017-05-02 23:11:17.762] [INFO] console - 
+[2017-05-02 23:11:26.672] [INFO] console - Running app as a module
+[2017-05-02 23:11:26.702] [INFO] console - 
+[2017-05-02 23:11:26.703] [INFO] console - [0m[0m
+[2017-05-02 23:11:26.707] [INFO] console - [0m  server[0m
+[2017-05-02 23:11:26.713] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:11:26.714] [INFO] server - 服务器端口：3000
+[2017-05-02 23:11:26.753] [ERROR] console - 404
+[2017-05-02 23:11:26.758] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (40ms)[0m
+[2017-05-02 23:11:26.763] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:11:26.768] [INFO] console -     [31m  1) should respond to GET[0m
+[2017-05-02 23:11:26.770] [INFO] console - 
+[2017-05-02 23:11:26.772] [INFO] console - 
+[2017-05-02 23:11:39.638] [INFO] console - Running app as a module
+[2017-05-02 23:11:39.676] [INFO] console - 
+[2017-05-02 23:11:39.678] [INFO] console - [0m[0m
+[2017-05-02 23:11:39.684] [INFO] console - [0m  server[0m
+[2017-05-02 23:11:39.690] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:11:39.691] [INFO] server - 服务器端口：3000
+[2017-05-02 23:11:39.728] [ERROR] console - 404
+[2017-05-02 23:11:39.733] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (38ms)[0m
+[2017-05-02 23:11:39.741] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:11:39.744] [INFO] console - null
+[2017-05-02 23:11:39.746] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:11:39.747] [INFO] console - 
+[2017-05-02 23:11:39.748] [INFO] console - 
+[2017-05-02 23:11:58.773] [INFO] console - Running app as a module
+[2017-05-02 23:11:58.803] [INFO] console - 
+[2017-05-02 23:11:58.804] [INFO] console - [0m[0m
+[2017-05-02 23:11:58.808] [INFO] console - [0m  server[0m
+[2017-05-02 23:11:58.814] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:11:58.814] [INFO] server - 服务器端口：3000
+[2017-05-02 23:11:58.851] [ERROR] console - 404
+[2017-05-02 23:11:58.855] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:11:58.857] [INFO] RedisIniter - connect
+[2017-05-02 23:11:58.863] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:11:58.866] [INFO] console - null
+[2017-05-02 23:11:58.867] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:11:58.869] [INFO] console - 
+[2017-05-02 23:11:58.871] [INFO] console - 
+[2017-05-02 23:12:02.000] [INFO] console - Running app as a module
+[2017-05-02 23:12:02.034] [INFO] console - 
+[2017-05-02 23:12:02.035] [INFO] console - [0m[0m
+[2017-05-02 23:12:02.039] [INFO] console - [0m  server[0m
+[2017-05-02 23:12:02.046] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:12:02.046] [INFO] server - 服务器端口：3000
+[2017-05-02 23:12:02.084] [ERROR] console - 404
+[2017-05-02 23:12:02.089] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (38ms)[0m
+[2017-05-02 23:12:02.095] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:12:02.098] [INFO] console - null
+[2017-05-02 23:12:02.100] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:12:02.101] [INFO] console - 
+[2017-05-02 23:12:02.102] [INFO] console - 
+[2017-05-02 23:12:16.747] [INFO] console - Running app as a module
+[2017-05-02 23:12:16.782] [INFO] console - 
+[2017-05-02 23:12:16.783] [INFO] console - [0m[0m
+[2017-05-02 23:12:16.789] [INFO] console - [0m  server[0m
+[2017-05-02 23:12:16.796] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:12:16.796] [INFO] server - 服务器端口：3000
+[2017-05-02 23:12:16.836] [ERROR] console - 404
+[2017-05-02 23:12:16.841] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (39ms)[0m
+[2017-05-02 23:12:16.846] [INFO] ControllerUser - Logout Api Call
+[2017-05-02 23:12:16.891] [INFO] RedisIniter - connect
+[2017-05-02 23:12:16.980] [INFO] RedisIniter - Ready
+[2017-05-02 23:12:16.980] [WARN] console - node_redis: Deprecated: The DEL command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[2017-05-02 23:12:17.318] [INFO] console - null
+[2017-05-02 23:12:17.320] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[31m (478ms)[0m
+[2017-05-02 23:12:17.322] [INFO] console - 
+[2017-05-02 23:12:17.323] [INFO] console - 
+[2017-05-02 23:12:44.742] [INFO] console - Running app as a module
+[2017-05-02 23:12:44.774] [INFO] console - 
+[2017-05-02 23:12:44.774] [INFO] console - [0m[0m
+[2017-05-02 23:12:44.778] [INFO] console - [0m  server[0m
+[2017-05-02 23:12:44.784] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:12:44.785] [INFO] server - 服务器端口：3000
+[2017-05-02 23:12:44.826] [ERROR] console - 404
+[2017-05-02 23:12:44.830] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m[33m (38ms)[0m
+[2017-05-02 23:12:44.842] [INFO] console - { Error: Unauthorized
+    at Request.callback (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:675:11)
+    at /Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:188:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  status: 401,
+  response: 
+   Response {
+     domain: null,
+     _events: {},
+     _eventsCount: 0,
+     _maxListeners: undefined,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 4,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Object],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 401,
+        statusMessage: 'Unauthorized',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Object],
+        text: '{"code":404,"msg":"未许可Api"}',
+        read: [Function] },
+     request: 
+      Request {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        _agent: false,
+        _formData: null,
+        method: 'GET',
+        url: 'http://localhost:3000/user/ol/logout',
+        _header: [Object],
+        header: [Object],
+        writable: true,
+        _redirects: 0,
+        _maxRedirects: 5,
+        cookies: '',
+        qs: {},
+        qsRaw: [],
+        _redirectList: [],
+        _streamRequest: false,
+        req: [Object],
+        protocol: 'http:',
+        host: 'localhost:3000',
+        _endCalled: true,
+        _callback: [Function],
+        res: [Object],
+        response: [Circular],
+        called: true },
+     req: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: false,
+        sendDate: false,
+        _removedHeader: {},
+        _contentLength: 0,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'GET /user/ol/logout HTTP/1.1\r\nHost: localhost:3000\r\nAccept-Encoding: gzip, deflate\r\nUser-Agent: node-superagent/3.5.2\r\nConnection: close\r\n\r\n',
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: null,
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'GET',
+        path: '/user/ol/logout',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null },
+     text: '{"code":404,"msg":"未许可Api"}',
+     body: { code: 404, msg: '未许可Api' },
+     files: undefined,
+     buffered: true,
+     headers: 
+      { 'x-powered-by': 'Express',
+        'access-control-allow-origin': '*',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '33',
+        etag: 'W/"21-HKbt9sN6xumvSsaBNeWRPTJZJNo"',
+        date: 'Tue, 02 May 2017 15:12:44 GMT',
+        connection: 'close' },
+     header: 
+      { 'x-powered-by': 'Express',
+        'access-control-allow-origin': '*',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '33',
+        etag: 'W/"21-HKbt9sN6xumvSsaBNeWRPTJZJNo"',
+        date: 'Tue, 02 May 2017 15:12:44 GMT',
+        connection: 'close' },
+     statusCode: 401,
+     status: 401,
+     statusType: 4,
+     info: false,
+     ok: false,
+     redirect: false,
+     clientError: true,
+     serverError: false,
+     error: 
+      { Error: cannot GET /user/ol/logout (401)
+          at Response.toError (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/response.js:94:13)
+          at ResponseBase._setStatusProperties (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/response-base.js:122:16)
+          at new Response (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/response.js:40:8)
+          at Request._emitResponse (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:738:20)
+          at /Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/index.js:883:38
+          at IncomingMessage.<anonymous> (/Users/jsen/Documents/Projects/WebstormProjects/MicroServer/User/node_modules/._superagent@3.5.2@superagent/lib/node/parsers/json.js:16:7)
+          at emitNone (events.js:91:20)
+          at IncomingMessage.emit (events.js:188:7)
+          at endReadableNT (_stream_readable.js:975:12)
+          at _combinedTickCallback (internal/process/next_tick.js:80:11)
+          at process._tickCallback (internal/process/next_tick.js:104:9)
+        status: 401,
+        text: '{"code":404,"msg":"未许可Api"}',
+        method: 'GET',
+        path: '/user/ol/logout' },
+     accepted: false,
+     noContent: false,
+     badRequest: false,
+     unauthorized: true,
+     notAcceptable: false,
+     forbidden: false,
+     notFound: false,
+     type: 'application/json',
+     charset: 'utf-8',
+     links: {},
+     setEncoding: [Function: bound ],
+     redirects: [] } }
+[2017-05-02 23:12:44.863] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:12:44.864] [INFO] RedisIniter - connect
+[2017-05-02 23:12:44.867] [INFO] console - 
+[2017-05-02 23:12:44.867] [INFO] console - 
+[2017-05-02 23:12:59.903] [INFO] console - Running app as a module
+[2017-05-02 23:12:59.935] [INFO] console - 
+[2017-05-02 23:12:59.936] [INFO] console - [0m[0m
+[2017-05-02 23:12:59.939] [INFO] console - [0m  server[0m
+[2017-05-02 23:12:59.946] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:12:59.946] [INFO] server - 服务器端口：3000
+[2017-05-02 23:12:59.981] [ERROR] console - 404
+[2017-05-02 23:12:59.986] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:12:59.998] [INFO] console - 401
+[2017-05-02 23:12:59.999] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:13:00.001] [INFO] console - 
+[2017-05-02 23:13:00.002] [INFO] console - 
+[2017-05-02 23:13:19.530] [INFO] console - Running app as a module
+[2017-05-02 23:13:19.565] [INFO] console - 
+[2017-05-02 23:13:19.566] [INFO] console - [0m[0m
+[2017-05-02 23:13:19.570] [INFO] console - [0m  server[0m
+[2017-05-02 23:13:19.576] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:13:19.577] [INFO] server - 服务器端口：3000
+[2017-05-02 23:13:19.614] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:13:19.632] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:13:19.634] [INFO] console - 
+[2017-05-02 23:13:19.634] [INFO] console - 

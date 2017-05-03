@@ -1,0 +1,10 @@
+[2017-05-02 23:13:19.530] [INFO] console - Running app as a module
+[2017-05-02 23:13:19.565] [INFO] console - 
+[2017-05-02 23:13:19.566] [INFO] console - [0m[0m
+[2017-05-02 23:13:19.570] [INFO] console - [0m  server[0m
+[2017-05-02 23:13:19.576] [INFO] console - [0m    homepage[0m
+[2017-05-02 23:13:19.577] [INFO] server - 服务器端口：3000
+[2017-05-02 23:13:19.614] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:13:19.632] [INFO] console -     [32m  ✓[0m[90m should respond to GET[0m
+[2017-05-02 23:13:19.634] [INFO] console - 
+[2017-05-02 23:13:19.634] [INFO] console - 

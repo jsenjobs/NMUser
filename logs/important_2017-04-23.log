@@ -1,0 +1,38 @@
+[2017-04-23 23:29:22.342] [INFO] console - worker is running
+[2017-04-23 23:29:22.342] [INFO] console - worker is running
+[2017-04-23 23:29:22.349] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:22.350] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:22.354] [INFO] server - 服务器端口：3003
+[2017-04-23 23:29:22.355] [INFO] server - 服务器端口：3003
+[2017-04-23 23:29:22.555] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:22.555] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:22.904] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:22.904] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:23.487] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:23.487] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:24.475] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:24.475] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:26.154] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:26.160] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:29.000] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:29:29.003] [INFO] console - Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2017-04-23 23:33:44.786] [INFO] console - worker is running
+[2017-04-23 23:33:44.797] [INFO] server - 服务器端口：3003
+[2017-04-23 23:33:44.798] [INFO] console - worker is running
+[2017-04-23 23:33:44.806] [INFO] server - 服务器端口：3003
+[2017-04-23 23:33:44.860] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:44.872] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:45.132] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:45.147] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:45.544] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:45.556] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:46.188] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:47.207] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:48.244] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:49.260] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:49.980] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:51.000] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:52.887] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:53.903] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:57.784] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-04-23 23:33:58.801] [INFO] console - Error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
