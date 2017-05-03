@@ -4,7 +4,7 @@
   "description": "用户登入注册",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=development PORT=3003 node server.js",
+    "start": "pm2 startOrReload ./pm2.json",
     "test": "mocha test/test.js -R nyan"
   },
   "keywords": [
