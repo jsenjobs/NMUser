@@ -5,13 +5,9 @@ script:
   - npm run test
 before_install:
   - openssl aes-256-cbc -K $encrypted_2c456f34f8c3_key -iv $encrypted_2c456f34f8c3_iv
-  - in id_rsa.enc -out ~\/.ssh/id_rsa -d
+    -in id_rsa.enc -out ~/.ssh/id_rsa -d
   - chmod 600 ~/.ssh/id_rsa
-  - eval $(ssh-agent)
-  - ssh-add ~/.ssh/id_rsa
-  - cp .travis/ssh_config ~/.ssh/config
-  - git config --global user.name "jsenjobs"
-  - git config --global user.email jsen1922279340@163.com
+  - echo -e "Host 120.25.217.56\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
   - npm prune --production
   - tar -jcf dist.tar.bz2 *
