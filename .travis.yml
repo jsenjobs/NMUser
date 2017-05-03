@@ -13,6 +13,6 @@ after_success:
   - tar -jcf cache.tar.bz2 *
   - scp cache.tar.bz2 root@120.25.217.56:~/
   - ssh root@120.25.217.56 'rm -rf ~/MicroServer/User'
-  - ssh root@120.25.217.56 'mkdir -p User && tar -jxf dist.tar.bz2 -C User'
+  - ssh root@120.25.217.56 'mkdir -p User && tar -jxf cache.tar.bz2 -C User'
   - ssh root@120.25.217.56 'mv User ~/MicroServer/ && pm2 startOrReload ~/MicroServer/User/pm2.json'
 
