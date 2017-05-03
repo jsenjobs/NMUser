@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - 7.9.0
+services:
+  - mongodb
+  - redis
+script:
+  - npm run test
+after_success:
+  - npm prune --production
+  - tar -jcf dist.tar.bz2 *
+  - scp dist.tar.bz2 root@120.25.217.56:~/
+  - ssh root@120.25.217.56 'rm -rf ~/server/User/* && rm -rf dist'
+  - ssh root@120.25.217.56 'mkdir -p dist && tar -jxf dist.tar.bz2 -C dist'
+  - ssh root@120.25.217.56 'mv dist/* ~/server/User && npm start'
