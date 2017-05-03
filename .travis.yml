@@ -1,8 +1,17 @@
 language: node_js
 node_js:
-  - "7"
+  - '7'
 script:
   - npm run test
+before_install:
+  - openssl aes-256-cbc -K $encrypted_2c456f34f8c3_key -iv $encrypted_2c456f34f8c3_iv
+  -in id_rsa.enc -out ~\/.ssh/id_rsa -d
+  - chmod 600 ~/.ssh/id_rsa
+  - eval $(ssh-agent)
+  - ssh-add ~/.ssh/id_rsa
+  - cp .travis/ssh_config ~/.ssh/config
+  - git config --global user.name "jsenjobs"
+  - git config --global user.email jsen1922279340@163.com
 after_success:
   - npm prune --production
   - tar -jcf dist.tar.bz2 *
@@ -10,3 +19,4 @@ after_success:
   - ssh root@120.25.217.56 'rm -rf ~/server/User/* && rm -rf dist'
   - ssh root@120.25.217.56 'mkdir -p dist && tar -jxf dist.tar.bz2 -C dist'
   - ssh root@120.25.217.56 'mv dist/* ~/server/User && npm start'
+
