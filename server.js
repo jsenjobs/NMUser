@@ -85,7 +85,7 @@ app.post('/user/login', cRoutes.user.Login);
 app.use('/user/ol', jwtCheck);
 app.post('/user/ol/logout', cRoutes.user.Logout);
 app.post('/user/ol/update', cRoutes.user.Update);
-app.get('/app/status', cRoutes.app.status);
+app.get('/user/app/status', cRoutes.app.status);
 
 let dbConf = require('./app/db');
 dbConf.mongoose.boot();
