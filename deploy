@@ -3,7 +3,6 @@
 #travis ci 自动部署
 
 msg='deploy'
-p="--m"
 if [ "--m"x == "$1"x -o  "-m"x == "$1"x  -o  "\"--m\""x == "$1"x  -o  "\"-m\""x == "$1"x ] && [ $# -ge 2 ];
 then  
     msg=${@:2}
@@ -14,10 +13,11 @@ echo 'git add start'
 git add *
 git add -A
 
-msg = \'$msg\'
+msg=\'$msg\'
 
 echo 'git add end'
 echo 'git commit start'
+echo $msg
 
 git commit -m $msg
 
