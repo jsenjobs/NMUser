@@ -1,6 +1,8 @@
-#!/bin/bash  
+#!/bin/bash
+#自动部署脚本
+#travis ci 自动部署
 
-msg='develop'
+msg='deploy'
 p="--m"
 if [ "--m"x == "$1"x -o  "-m"x == "$1"x  -o  "\"--m\""x == "$1"x  -o  "\"-m\""x == "$1"x ] && [ $# -ge 2 ];
 then  
