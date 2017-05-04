@@ -80,12 +80,12 @@ let jwtCheck = ejwt({
   }
 });
 let cRoutes = require('./app/controller');
-app.post('/user/register', cRoutes.user.Register);
-app.post('/user/login', cRoutes.user.Login);
-app.use('/user/ol', jwtCheck);
-app.post('/user/ol/logout', cRoutes.user.Logout);
-app.post('/user/ol/update', cRoutes.user.Update);
-app.get('/user/app/status', cRoutes.app.status);
+app.post('/register', cRoutes.user.Register);
+app.post('/login', cRoutes.user.Login);
+app.use('/ol', jwtCheck);
+app.post('/ol/logout', cRoutes.user.Logout);
+app.post('/ol/update', cRoutes.user.Update);
+app.get('/app/status', cRoutes.app.status);
 
 let dbConf = require('./app/db');
 dbConf.mongoose.boot();
