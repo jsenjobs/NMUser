@@ -4,10 +4,12 @@
     "script"      : "./product/bundle.js",
     "watch"       : true,
     "env": {
-      "NODE_ENV": "development"
+      "NODE_ENV": "development",
+      "HOST":"120.25.217.56"
     },
     "env_production" : {
-       "NODE_ENV": "production"
+      "NODE_ENV": "production",
+      "HOST":"120.25.217.56"
     }
   }]
 }

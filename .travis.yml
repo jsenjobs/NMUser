@@ -10,13 +10,13 @@ before_install:
 - chmod 600 ~/.ssh/id_rsa
 - echo -e "Host 120.25.217.56\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
-- rm -rf cache.tar.bz2
+- rm -rf cacheuser.tar.bz2
 - npm prune --production
 - mv ./product ./node_modules ./package.json ./pm2.json ~/ && rm -rf * && mv ~/product
-  ~/node_modules ~/package.json ~/pm2.json ./ && tar -jcf cache.tar.bz2 *
-- scp cache.tar.bz2 root@120.25.217.56:~/
+  ~/node_modules ~/package.json ~/pm2.json ./ && tar -jcf cacheuser.tar.bz2 *
+- scp cacheuser.tar.bz2 root@120.25.217.56:~/
 - ssh root@120.25.217.56 'rm -rf ~/MicroServer/User'
-- ssh root@120.25.217.56 'mkdir -p User && tar -jxf cache.tar.bz2 -C User'
+- ssh root@120.25.217.56 'mkdir -p User && tar -jxf cacheuser.tar.bz2 -C User'
 - ssh root@120.25.217.56 'mv User ~/MicroServer/'
 - ssh root@120.25.217.56 'cd ~/MicroServer/User && npm start'
 - rm -rf ~/.ssh
