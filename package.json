@@ -7,7 +7,7 @@
     "start": "pm2 startOrReload ./pm2.json",
     "test": "mocha test/test.js -R nyan",
     "packbundle":"webpack",
-    "push":"./deploy"
+    "push":"./deploy --m "
   },
   "keywords": [
     "user",
