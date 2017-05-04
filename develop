@@ -1,0 +1,9 @@
+echo $1
+
+echo 'git add start'
+git add *
+git add -A
+echo 'git add end'
+echo 'git commit start'
+git commit -m 'develop'
+echo 'git commit end'

@@ -6,7 +6,9 @@
   "scripts": {
     "start": "pm2 startOrReload ./pm2.json",
     "test": "mocha test/test.js -R nyan",
-    "packbundle":"webpack"
+    "packbundle":"webpack",
+    "autoddevelop":"git add * && git add -A && git commit -m 'develop' && git push -u origin master",
+    "au":"./develop"
   },
   "keywords": [
     "user",
