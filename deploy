@@ -13,8 +13,6 @@ echo 'git add start'
 git add *
 git add -A
 
-echo $msg
-
 git commit -m '$msg'
 
-
+git push -u origin master
