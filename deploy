@@ -13,10 +13,8 @@ echo 'git add start'
 git add *
 git add -A
 
-msg='git commit -m '\"$msg\"
-
 echo $msg
 
-exec $msg
+git commit -m \"$msg\"
 
 
