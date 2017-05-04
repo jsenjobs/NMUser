@@ -1,3 +1,7 @@
+
+require('../app/utils/env').env.ENVSET();
+require('./log4jConfig').set();
+
 var boot = require('../server').boot;
 var shutdown = require('../server').shutdown;
 var port = require('../server').port;

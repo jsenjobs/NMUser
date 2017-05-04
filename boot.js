@@ -1,3 +1,6 @@
+require('./app/utils/env').env.ENVSET();
+require('./app/utils/log').log4j.set();
+
 let cluster = require('cluster');
 let numCPUS = require('os').cpus().length;
 if (cluster.isMaster) {

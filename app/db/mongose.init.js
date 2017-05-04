@@ -2,19 +2,17 @@
  * Created by jsen on 2017/4/17.
  */
 
-var log4js = require('log4js');
-var logger = log4js.getLogger('MongoseIniter');
+let log4js = require('log4js');
+let logger = log4js.getLogger('MongoseIniter');
 
-var Promise = require("bluebird");
+let Promise = require("bluebird");
 
 let mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
 
-let Global = require('../../global');
-
 exports.boot = function(){
     var options = { server: { socketOptions: { keepAlive: 1 } } };
-    mongoose.connect(Global.MongoUrl + '/' + Global.MongoTable, options);
+    mongoose.connect((process.env.MongoUrl || 'mongodb://127.0.0.1:27017') + '/' + (process.env.MongoTable || 'jrecord'), options);
     let conn = mongoose.connection;
     conn.on('error', (err) => {
         logger.error(err);

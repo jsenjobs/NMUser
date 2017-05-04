@@ -7,8 +7,7 @@ let _       = require('lodash');
 let ejwt = require('express-jwt');
 let jwts     = require('jsonwebtoken');
 
-let timeout = require('../../global').SessionTimeOut;
-
+let timeout = parseInt(process.env.SessionTimeOut);
 
 function createToken(user) {
 	let uuid = UUID.v1();

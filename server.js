@@ -12,10 +12,13 @@ let app = express();
 let Promise = require("bluebird");
 let fs = Promise.promisifyAll(require("fs"));
 
-let Apis = {};
-fs.readFileAsync(path.join(__dirname, 'mock','mock.api.json')).then(JSON.parse).then(json=>Apis = json).error(()=>
-    logger.error("无法获取mock/mock.api.json文件信息，请检查文件是否存在和文件格式")
-);
+let Apis = require('./mock/mock.api.json');
+/*
+fs.readFileAsync(path.join(__dirname, 'mock','mock.api.json')).then(JSON.parse).then(json=>Apis = json).error(()=> {
+    logger.error("无法获取mock/mock.api.json文件信息，请检查文件是否存在和文件格式");
+    logger.error(path.join(__dirname, 'mock','mock.api.json'));
+});
+*/
 
 let models = require('./app/service');
 app.use(function(req,res, next) {

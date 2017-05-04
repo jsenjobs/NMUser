@@ -5,13 +5,12 @@
 var log4js = require('log4js');
 var logger = log4js.getLogger('RedisIniter');
 
-let Global = require('../../global');
 var redis = require("redis");
 let bluebird = require('bluebird');
 bluebird.promisifyAll(redis.RedisClient.prototype);
 bluebird.promisifyAll(redis.Multi.prototype);
 
-let timeout = Global.SessionTimeOut;
+let timeout = parseInt(process.env.SessionTimeOut);
 
 let client;
 exports.SetValue = function(k,v) {
@@ -34,7 +33,7 @@ exports.DelValue = function(k) {
 }
 
 exports.boot = function() {
-    client = redis.createClient(Global.RedisPort,Global.RedisHost,Global.RedisOpts);
+    client = redis.createClient(process.env.RedisPort,process.env.RedisHost,{});
     client.on("ready", function () {
       logger.info("Ready");
     });

@@ -2,6 +2,7 @@ language: node_js
 node_js:
   - '7'
 script:
+  - npm run packbundle
   - npm run test
 before_install:
   - openssl aes-256-cbc -K $encrypted_2c456f34f8c3_key -iv $encrypted_2c456f34f8c3_iv
@@ -10,10 +11,11 @@ before_install:
   - echo -e "Host 120.25.217.56\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
   - npm prune --production
+  - rm -rf test .idea app logs mock test .gitignore *.js *.yml *.enc *.md
   - tar -jcf cache.tar.bz2 *
   - scp cache.tar.bz2 root@120.25.217.56:~/
   - ssh root@120.25.217.56 'rm -rf ~/MicroServer/User'
   - ssh root@120.25.217.56 'mkdir -p User && tar -jxf cache.tar.bz2 -C User'
   - ssh root@120.25.217.56 'mv User ~/MicroServer/'
-  - ssh root@120.25.217.56 'cd MicroServer/User && pm2 startOrReload pm2.json'
+  - ssh root@120.25.217.56 'cd ~/MicroServer/User && npm start'
 

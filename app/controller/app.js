@@ -23,13 +23,13 @@ exports.status = function(req, res) {
 					connections[server.set('port')] = parseInt(res, 10);
 					done();
 				});
-			},
-			(done) => {
-				exec('vmstat -SM -s | grep "used swap" | sed -E "s/[^0-9]*([0-9]{1,8}).*/\1/"', (e, res) => {
-					swap = res;
-					done();
-				});
-			}
+			}// ,
+			// (done) => {
+			// 	exec('vmstat -SM -s | grep "used swap" | sed -E "s/[^0-9]*([0-9]{1,8}).*/\1/"', (e, res) => {
+			// 		swap = res;
+			// 		done();
+			// 	});
+			// }
 		],
 		(e) => {
 			res.json({
