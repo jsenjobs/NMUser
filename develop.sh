@@ -1,4 +1,10 @@
-echo $1
+#!/bin/bash  
+
+varmsg='develop'
+if ['--m' == $1 || '--m' == $1]; then
+	msg = $2
+fi
+echo msg
 
 echo 'git add start'
 git add *
