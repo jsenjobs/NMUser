@@ -15,6 +15,9 @@ ssh_config 持续部署（Travis ssh需求)
 测试TravisCI（YAML）
 测试
 
+#ssh
+ssh 直接执行命令
+环境变量会从 /etc/bash.bashrc 或 ~/.bashrc中找
 
 ### 参考
 node webpack: http://www.thinksaas.cn/topics/0/606/606564.html
