@@ -2,7 +2,7 @@
 
 msg='develop'
 if ['--m' == $1 || '--m' == $1]; then
-	msg = $2
+	$msg = $2
 fi
 echo $msg
 
