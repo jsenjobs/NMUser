@@ -12,13 +12,16 @@ echo 'git add start'
 git add *
 git add -A
 
+msg = \'$msg\'
+
 echo 'git add end'
 echo 'git commit start'
 
-echo git commit -m \"$msg\"
+git commit -m $msg
 
 echo 'git commit end'
 echo 'git push start'
 
+git push -u origin master
 
 echo 'git push end'
