@@ -1,3 +1,6 @@
-[2017-05-04 21:18:02.878] [INFO] console - Running app as a module
-[2017-05-04 21:18:02.973] [INFO] server - 服务器端口：3003
-[2017-05-04 21:18:03.051] [INFO] console - 
+[2017-05-05 12:36:19.335] [INFO] console - Running app as a module
+[2017-05-05 12:36:19.411] [INFO] RedisIniter - connect
+[2017-05-05 12:36:19.427] [INFO] MongoseIniter - MongoDB open
+[2017-05-05 12:36:19.431] [INFO] RedisIniter - Ready
+[2017-05-05 12:36:19.438] [INFO] server - 服务器端口：3003
+[2017-05-05 12:36:19.513] [INFO] console - 

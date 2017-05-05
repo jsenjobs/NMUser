@@ -4,6 +4,9 @@ node_js:
 script:
 - npm run packbundle
 - npm run test
+services:
+- mongodb
+- redis
 before_install:
 - openssl aes-256-cbc -K $encrypted_2c456f34f8c3_key -iv $encrypted_2c456f34f8c3_iv
   -in id_rsa.enc -out ~/.ssh/id_rsa -d
@@ -17,6 +20,6 @@ after_success:
 - scp cacheuser.tar.bz2 root@120.25.217.56:~/
 - ssh root@120.25.217.56 'rm -rf ~/MicroServer/User'
 - ssh root@120.25.217.56 'mkdir -p User && tar -jxf cacheuser.tar.bz2 -C User'
-- ssh root@120.25.217.56 'mv User ~/MicroServer/'
+- ssh root@120.25.217.56 'mv User ~/MicroServer/ && rm -rf cacheuser.tar.bz2'
 - ssh root@120.25.217.56 'cd ~/MicroServer/User && npm start'
 - rm -rf ~/.ssh

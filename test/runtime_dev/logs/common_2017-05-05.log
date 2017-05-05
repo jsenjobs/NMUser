@@ -1,0 +1,11 @@
+[2017-05-05 12:35:44.378] [INFO] console - Running app as a module
+[2017-05-05 12:35:44.474] [ERROR] RedisIniter - error Error: Redis connection to 120.25.217.56:6379 failed - connect ECONNREFUSED 120.25.217.56:6379
+[2017-05-05 12:35:44.489] [INFO] MongoseIniter - MongoDB open
+[2017-05-05 12:35:44.497] [INFO] server - 服务器端口：3003
+[2017-05-05 12:35:44.569] [INFO] console - 
+[2017-05-05 12:36:19.335] [INFO] console - Running app as a module
+[2017-05-05 12:36:19.411] [INFO] RedisIniter - connect
+[2017-05-05 12:36:19.427] [INFO] MongoseIniter - MongoDB open
+[2017-05-05 12:36:19.431] [INFO] RedisIniter - Ready
+[2017-05-05 12:36:19.438] [INFO] server - 服务器端口：3003
+[2017-05-05 12:36:19.513] [INFO] console - 
